@@ -1,0 +1,15 @@
+{
+  "Age": 52,
+  "Sex": 1,
+  "Chest_pain_type": 4,
+  "BP": 130,
+  "Cholesterol": 230,
+  "FBS_over_120": 0,
+  "EKG_results": 1,
+  "Max_HR": 150,
+  "Exercise_angina": 0,
+  "ST_depression": 1.2,
+  "Slope_of_ST": 2,
+  "Number_of_vessels_fluro": 0,
+  "Thallium": 3
+}
