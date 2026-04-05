@@ -3,13 +3,13 @@ This project aims to predict residential home prices in Ames, Iowa, using a vari
 The workflow covers everything from automated EDA to model evaluation using RMSE.
 
 # 📈 Project Highlights
-Automated EDA: Utilized ydata-profiling to generate a comprehensive Dataset overview.html for feature analysis.  
+**Automated EDA:** Utilized ydata-profiling to generate a comprehensive Dataset overview.html for feature analysis.  
 
-Feature Insight: Analyzed categorical impact on pricing, such as the median price trends across different Exterior1st materials.  
+**Feature Insight:** Analyzed categorical impact on pricing, such as the median price trends across different Exterior1st materials.  
 
 **Model Performance:** * ***Ridge Regression :*** Achieved an RMSE of ~0.1365.  
 **Linear Regression:** Achieved a RMSE of ~ 0.1369  
-**Random Forest:** Achieved a Mean Absolute Error of ~0.0917 and an RMSE of ~0.1380.  
+**Random Forest:** Achieved a RMSE of ~0.1380.  
 
 **🛠️ Tech Stack**
 Language: Python
