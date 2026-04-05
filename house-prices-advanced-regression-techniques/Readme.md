@@ -7,7 +7,7 @@ The workflow covers everything from automated EDA to model evaluation using RMSE
 
 **Feature Insight:** Analyzed categorical impact on pricing, such as the median price trends across different Exterior1st materials.  
 
-**Model Performance:** * ***Ridge Regression :*** Achieved an RMSE of ~0.1365.  
+**Model Performance:**  ***Ridge Regression :*** Achieved an RMSE of ~0.1365.  
 **Linear Regression:** Achieved a RMSE of ~ 0.1369  
 **Random Forest:** Achieved a RMSE of ~0.1380.  
 
